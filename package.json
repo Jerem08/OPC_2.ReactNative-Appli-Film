@@ -31,7 +31,7 @@
     "reduce": "^1.0.2",
     "redux": "^4.0.4",
     "redux-persist": "^6.0.0",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
