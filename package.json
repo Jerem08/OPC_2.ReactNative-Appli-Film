@@ -13,7 +13,7 @@
     "dependency-install": "0.0.11",
     "expo": "^35.0.0",
     "micromatch": "^4.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "numeral": "^2.0.6",
     "react": "16.8.3",
     "react-dom": "16.8.3",
